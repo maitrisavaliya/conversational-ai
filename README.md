@@ -51,7 +51,7 @@ These commands use Windows-style activation and paths (Batch / cmd). Run them in
 1) Clone the repo
 
 ```batch
-git clone https://github.com/<your-username>/conversational-ai.git
+git clone https://github.com/maitrisavaliya/conversational-ai.git
 cd conversational-ai
 ```
 
