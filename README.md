@@ -159,18 +159,6 @@ Please open an issue or a pull request.
 
 ## License
 
-This project is provided under the MIT License. Add a `LICENSE` file to the repo root.
+This project is provided under the MIT License. 
 
----
 
-## Final notes
-
-- This README is Windows-first and avoids bash-only snippets.
-- If you'd like, I can also:
-  - generate a `requirements.txt` from the environment
-  - create a `.env.example` with recommended defaults
-  - add a small `CONTRIBUTING.md` and `LICENSE` file
-
-If you want any of those, tell me which and I'll add them next.
-
-<!-- End of README -->
